@@ -1,2 +1,10 @@
-# Guess-the-number-game
-A simple number guessing game built with Python featuring difficulty levels and attempt limits.
+# 🎮 Guess The Number Game
+
+Developed by **Angelith**
+
+A simple Python CLI game where the player tries to guess a randomly generated number.
+
+## Features
+- Difficulty levels (Easy, Medium, Hard)
+- Attempt limits
+- Input validation
